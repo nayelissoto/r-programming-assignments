@@ -124,4 +124,15 @@ hist(
   main = "Histogram of Blood Pressure"
 )
 
+# Generated Plots
+<img width="703" height="517" alt="first_assessment" src="https://github.com/user-attachments/assets/366c8c0f-9d3f-4ea5-b959-3b7a94cfbc4b" />
+<img width="703" height="517" alt="sec_assessment" src="https://github.com/user-attachments/assets/af7b0331-42e9-441f-99d8-402d7d7b86c6" />
+<img width="703" height="517" alt="final_decision" src="https://github.com/user-attachments/assets/b0eccbbc-deb2-4a6d-beb4-8b4d05ba06c1" />
+<img width="703" height="517" alt="visit_frequency_histogram" src="https://github.com/user-attachments/assets/ddcbdc6d-2ad9-4653-a54b-6df7d2422670" />
+<img width="703" height="517" alt="blood_pressure_histogram" src="https://github.com/user-attachments/assets/d1b6a1c6-468c-48f0-a00e-3a444feff4d9" />
+
+
+
+
+
 
