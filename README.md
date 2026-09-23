@@ -131,8 +131,10 @@ hist(
 <img width="703" height="517" alt="visit_frequency_histogram" src="https://github.com/user-attachments/assets/ddcbdc6d-2ad9-4653-a54b-6df7d2422670" />
 <img width="703" height="517" alt="blood_pressure_histogram" src="https://github.com/user-attachments/assets/d1b6a1c6-468c-48f0-a00e-3a444feff4d9" />
 
+# Assignment #5: Matrix Algebra in R
 
-
+# Blog post link
+https://rprogrammingjournalnayeliss.blogspot.com/2026/09/matrix-algebra-in-r.html
 
 
 
