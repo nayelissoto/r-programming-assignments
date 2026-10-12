@@ -136,5 +136,12 @@ hist(
 # Blog post link
 https://rprogrammingjournalnayeliss.blogspot.com/2026/09/matrix-algebra-in-r.html
 
+#Assignment #7: Exploring R’s Object Oriented Systems (S3 &amp; S4)
+
+# Blog post link
+https://rprogrammingjournalnayeliss.blogspot.com/2026/10/assignment-7-exploring-rs.html
+
+
+
 
 
